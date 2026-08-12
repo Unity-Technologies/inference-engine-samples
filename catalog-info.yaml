@@ -8,12 +8,12 @@ metadata:
   description: "Sentis samples internal development repository. Contains example
     and template project for Sentis package use."
   labels:
-    costcenter: "5010"
+    costcenter: "5053"
   tags:
     - planned-public
   links:
     - url: https://unity.slack.com/messages/CAFUH1CQN/
-      title: "#devs-sentis"
+      title: "#devs-inference-engine"
       icon: chat
 spec:
   type: other
